@@ -5,7 +5,7 @@ while(numero >= 0){
 
  if(numero >= 0){
 
-        numero = parseInt(soma) + parseInt(numero)
+        soma = parseInt(soma) + parseInt(numero)
         total++
 }    
 media = soma / total;
